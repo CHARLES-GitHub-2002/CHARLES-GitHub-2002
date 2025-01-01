@@ -1,22 +1,47 @@
 <h1 align="center">Hi 👋, I'm Charles Munyua</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-- 🔭 I’m currently working on **honing my skills in data analysis, machine learning, and programming**
+- 🔭 I’m currently working on **Honing my skills in data analysis, machine learning, and programming**
 
 - 🌱 I’m currently learning ** advanced data science techniques like machine learning and deep learning, while enhancing my skills in Python, SQL, and data visualization to tackle complex challenges.**
 
-- 👯 I’m looking to collaborate on **data science projects that leverage data analysis, machine learning, and predictive modeling to solve real-world challenges.**
+- 👯 I’m looking to collaborate on **I’m looking to collaborate on data science projects that leverage data analysis, machine learning, and predictive modeling to solve real-world challenges.**
 
-- 📫 How to reach me **charlesmunyua001@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/charles munyua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles munyua" height="30" width="40" /></a>
-<a href="https://fb.com/charles munyua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="charles munyua" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Charles Munyua"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Charles Munyua" /></a></p><br><br>
+
+
+## Skills and Tools: 
+<div align="center">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/> 
+  </a> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/> 
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/> 
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/> 
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/> 
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60"/> 
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://media.datacamp.com/legacy/v1724169856/image_ff55d03003.png" title="Power BI" alt="Power BI" width="60" height="60"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+    <img src="https://w7.pngwing.com/pngs/394/915/png-transparent-excel-hd-logo-thumbnail.png" title="Excel" alt="Excel" width="60" height="60"/> 
+  </a>
+</div>
