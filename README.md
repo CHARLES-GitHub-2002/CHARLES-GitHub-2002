@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Honing my skills in data analysis, machine learning, and programming**
 
-- 🌱 I’m currently learning ** advanced data science techniques like machine learning and deep learning, while enhancing my skills in Python, SQL, and data visualization to tackle complex challenges.**
+- 🌱 I’m currently learning *advanced data science techniques like machine learning and deep learning, while enhancing my skills in Python, SQL, and data visualization to tackle complex challenges.**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on data science projects that leverage data analysis, machine learning, and predictive modeling to solve real-world challenges.**
+- 👯 I’m looking to collaborate on ** on data science projects that leverage data analysis, machine learning, and predictive modeling to solve real-world challenges.**
 
 
 <p align="left">
