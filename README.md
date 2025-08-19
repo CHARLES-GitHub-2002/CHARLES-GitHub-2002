@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF119B00&center=true&vCenter=true&multiline=true&width=700&height=100&lines=I+am+Charles+Munyua+;Overzealous+About+Data+Science+%7C+Aspiring+ML+Engineer" alt="Typing SVG" /></a>
 </h1>
-<h2 align="center"> A Passionate Data Analyst</h2>
+<h2 align="center"> Overzealous About Data Science</h2>
 <p align="center"> 
 
-- 🔭 I’m currently working on *Honing my skills in data analysis, machine learning, and programming**
+- 🔭 I’m currently working on *Honing my skills in Data Science, machine learning, and programming**
 
 - 🌱 I’m currently learning *advanced data science techniques like machine learning and deep learning, while enhancing my skills in Python, SQL, and data visualization to tackle complex challenges.**
 
