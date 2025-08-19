@@ -1,7 +1,5 @@
-<<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=▶▶+Hello!+👋+I'm+Charles+Munyua◀&center=true&size=25">
-  </a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF119B00&center=true&vCenter=true&multiline=true&width=700&height=100&lines=I+am+Charles+Munyua+;Overzealous+About+Data+Science+%7C+Aspiring+ML+Engineer" alt="Typing SVG" /></a>
 </h1>
 <h2 align="center"> A Passionate Data Analyst</h2>
 <p align="center"> 
